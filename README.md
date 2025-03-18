@@ -1,6 +1,6 @@
 # Sorteo de Amigos Secretos
 
-Este es un proyecto simple en JavaScript que permite a los usuarios agregar nombres a una lista y realizar un sorteo de amigos secretos de manera automática.
+Este es mi primer proyecto en JavaScript que permite a los usuarios agregar nombres a una lista y realizar un sorteo de amigos secretos de manera automática.
 
 ![image](https://github.com/user-attachments/assets/f906a1e4-1c36-48ba-adac-4b0f05b32d7c)
 
